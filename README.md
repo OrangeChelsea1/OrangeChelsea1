@@ -1,16 +1,36 @@
-## Hi there 👋
+# Chelsea Guo, CIP
 
-<!--
-**OrangeChelsea1/OrangeChelsea1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Risk & Governance Analytics | Model Risk | AI Governance
 
-Here are some ideas to get you started:
+I build hands-on projects that connect **analytics and model development** with **risk, controls, monitoring, and governance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background spans P&C insurance, operational risk, governance analytics, and business decision support. This portfolio documents my hands-on work across the model lifecycle — from data exploration and model development to evaluation, monitoring, validation concepts, and governance.
+
+## Areas of Focus
+
+- **Model Development & Analytics** — Python, SQL, machine learning, predictive modelling, and quantitative analysis
+- **Model Risk & Monitoring** — performance evaluation, limitations, false positives, drift, thresholds, and ongoing monitoring
+- **AI Governance** — intended use, risk assessment, human oversight, controls, monitoring, and responsible AI
+- **Governance Analytics & Continuous Monitoring** — translating operational risks and controls into scalable monitoring solutions
+
+## Current Portfolio
+
+📈 **Quantitative Research**  
+Exploring market risk, volatility, cross-asset relationships, and predictive signals through Python-based research.
+
+🧠 **Model Risk & Validation** *(in development)*  
+Building practical projects around model performance, validation, monitoring, limitations, and governance.
+
+🤖 **AI Governance** *(in development)*  
+Developing practical governance frameworks for AI and GenAI use cases.
+
+⚙️ **Continuous Control Monitoring** *(in development)*  
+Designing analytics-driven approaches to exception detection, risk monitoring, escalation, and remediation.
+
+## Technical Toolkit
+
+`Python` `SQL` `Pandas` `NumPy` `scikit-learn` `XGBoost` `Qlik Sense`
+
+---
+
+*This portfolio contains personal projects and independent research. It does not represent the work, data, systems, or views of my employer.*
