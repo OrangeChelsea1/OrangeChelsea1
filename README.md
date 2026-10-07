@@ -4,7 +4,7 @@
 
 I build hands-on projects that connect **analytics and model development** with **risk, controls, monitoring, and governance**.
 
-My background spans P&C insurance, operational risk, governance analytics, and business decision support. This portfolio documents my hands-on work across the model lifecycle — from data exploration and model development to evaluation, monitoring, validation concepts, and governance.
+My background spans P&C insurance, operational risk, governance analytics, and business decision support. This portfolio documents my hands-on work in quantitative analysis and model development, while extending that work into model evaluation, monitoring, validation, and governance.
 
 ## Areas of Focus
 
